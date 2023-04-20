@@ -8,10 +8,12 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
-input,button{
+input,
+button {
   outline: none;
 }
 
@@ -41,7 +43,8 @@ input,button{
   width: 500px;
   margin: 0 auto 0;
 }
-.task__label, .task__text {
+.task__label,
+.task__text {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
