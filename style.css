@@ -15,6 +15,7 @@ input,button{
   outline:none;
 }
 
+
 .matrix {
   width: 500px;
   margin: 0 auto;
@@ -29,8 +30,11 @@ input,button{
 }
 
 @media (max-width:768px) {
-  .matrix { text-align: center;
-}
+  
+  .matrix { 
+    text-align: center;
+  }
+  
 }
 .main {
   display: block;
