@@ -49,7 +49,7 @@ button {
   display: inline-block;
   flex-grow: 1;
 }
-.task-wrapper {
+.wrapper {
   display: flex;
 }
 /* button { */
