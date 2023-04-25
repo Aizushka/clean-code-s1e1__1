@@ -26,9 +26,6 @@ button {
 .matrix__img {
   width: 100%;
 }
-.matrix .matrix__info {
-  font-family: fantasy, cursive;
-}
 
 @media (max-width: 768px) {
   
